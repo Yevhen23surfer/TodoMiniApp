@@ -1,6 +1,6 @@
 {
-  "name": "Scrim-s04hv56",
-  "description": "https://v2.scrimba.com/learn-javascript-c0v/~06j",
+  "name": "Todo",
+  "description": "Todo App",
   "scripts": {
     "start": "vite",
     "dev": "vite",
